@@ -5,7 +5,7 @@
 <img src="https://miro.medium.com/max/4000/1*KUy_KKExZrSpBuv9XfyBgA.png" width="600" height="300">
 
 ## About Me 😎
-- I am Harsh Patel, a CSE Undergrad Student. Sophomore, Competitive Coding & AI / ML Enthusiast and also Flutter,python developer.
+- I am Harsh Patel, a CSE Undergrad Student. Sophomore, Competitive Coding and AI / ML Enthusiast also Flutter,python developer.
 
 - Check out my YouTube channel  by the name [Harsh Patel](https://www.youtube.com/channel/UCBTRbkOemUY7jxhLh5FUdmw), in which I post videos realted to new tech and coding stuff.
 
